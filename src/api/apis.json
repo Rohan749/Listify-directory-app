@@ -1,0 +1,825 @@
+{
+  "automotives": [
+    {
+      "name": "XYZ Car Garage",
+      "description": "XYZ Car Garage is a full-service auto repair shop in the heart of Bangalore. We specialize in providing high-quality maintenance services for all types of cars.",
+      "rating": 4.2,
+      "location": "Koramangala, Bangalore",
+      "comments": [
+        {
+          "name": "John",
+          "comment": "Great service and friendly staff!"
+        },
+        {
+          "name": "Lisa",
+          "comment": "Highly recommended for all your car needs."
+        }
+      ]
+    },
+    {
+      "name": "ABC Motors",
+      "description": "ABC Motors is a leading automobile dealer in Bangalore. We offer a wide range of cars at competitive prices and provide excellent after-sales service to our customers.",
+      "rating": 4.5,
+      "location": "Jayanagar, Bangalore",
+      "comments": [
+        {
+          "name": "David",
+          "comment": "I bought my car from ABC Motors and had a great experience!"
+        },
+        {
+          "name": "Jessica",
+          "comment": "The staff at ABC Motors are very helpful and knowledgeable."
+        },
+        {
+          "name": "James",
+          "comment": "I had my car serviced at ABC Motors and they did a great job."
+        }
+      ]
+    },
+    {
+      "name": "PQR Auto Works",
+      "description": "PQR Auto Works is a specialized auto repair shop in Bangalore. We have the latest diagnostic tools and equipment to service your car.",
+      "rating": 4.0,
+      "location": "Jayanagar, Bangalore",
+      "comments": [
+        {
+          "name": "Mary",
+          "comment": "Excellent service and reasonable prices."
+        },
+        {
+          "name": "Robert",
+          "comment": "I had my car repaired at PQR Auto Works and they did an amazing job!"
+        }
+      ]
+    },
+    {
+      "name": "LMN Car Care",
+      "description": "LMN Car Care is a trusted name in the automobile industry. We offer a range of services including car detailing, painting, and maintenance.",
+      "rating": 4.8,
+      "location": "Indiranagar, Bangalore",
+      "comments": [
+        {
+          "name": "Sarah",
+          "comment": "I took my car to LMN Car Care for detailing and they did an amazing job!"
+        },
+        {
+          "name": "Peter",
+          "comment": "The staff at LMN Car Care are very friendly and professional."
+        },
+        {
+          "name": "Karen",
+          "comment": "I highly recommend LMN Car Care for all your car needs."
+        }
+      ]
+    },
+    {
+      "name": "RST Auto Solutions",
+      "description": "RST Auto Solutions is a one-stop-shop for all your car needs. We provide a range of services including car repair, maintenance, and customization.",
+      "rating": 4.4,
+      "location": "Whitefield, Bangalore",
+      "comments": [
+        {
+          "name": "Michael",
+          "comment": "I had my car repaired at RST Auto Solutions and they did a great job."
+        },
+        {
+          "name": "Emma",
+          "comment": "The staff at RST Auto Solutions are very knowledgeable and friendly."
+        }
+      ]
+    },
+    {
+      "name": "MotoWorx",
+      "description": "MotoWorx is a well-known motorcycle dealership in Bangalore, offering a wide range of bikes and related services.",
+      "rating": 4.0,
+      "location": "Jayanagar, Bangalore",
+      "comments": [
+        {
+          "name": "Robert Johnson",
+          "comment": "Bought my first bike from MotoWorx and had a great experience. Highly recommended!"
+        },
+        {
+          "name": "Maria Rodriguez",
+          "comment": "I took my bike here for servicing and they did a fantastic job. Will definitely come back!"
+        }
+      ]
+    },
+    {
+      "name": "Tyre Empire",
+      "description": "Tyre Empire is a leading tyre dealer in Bangalore, offering a wide range of tyres for cars, bikes and other vehicles.",
+      "rating": 4.2,
+      "location": "Indiranagar, Bangalore",
+      "comments": [
+        {
+          "name": "James Brown",
+          "comment": "I always go to Tyre Empire for my tyre needs. They have a great selection and knowledgeable staff."
+        },
+        {
+          "name": "Julia Lee",
+          "comment": "Excellent service and prices. I got a great deal on my new tyres!"
+        }
+      ]
+    },
+    {
+      "name": "Car Junction",
+      "description": "Car Junction is a well-established used car dealer in Bangalore, offering a wide range of second-hand cars at affordable prices.",
+      "rating": 3.8,
+      "location": "Malleshwaram, Bangalore",
+      "comments": [
+        {
+          "name": "David Miller",
+          "comment": "I bought my first car from Car Junction and had a good experience. They helped me find the perfect car within my budget."
+        },
+        {
+          "name": "Sarah Williams",
+          "comment": "Good selection of cars and friendly staff. I would recommend Car Junction to anyone looking for a used car."
+        }
+      ]
+    },
+    {
+      "name": "Bike Nation",
+      "description": "Bike Nation is a popular bike rental service in Bangalore, offering a wide range of bikes for rent at affordable prices.",
+      "rating": 4.4,
+      "location": "Koramangala, Bangalore",
+      "comments": [
+        {
+          "name": "Michael Brown",
+          "comment": "I rented a bike from Bike Nation and had a great time exploring Bangalore. The rental process was quick and easy!"
+        },
+        {
+          "name": "Sophie Taylor",
+          "comment": "Affordable prices and excellent service. I will definitely rent from Bike Nation again!"
+        }
+      ]
+    }
+  ],
+  "restraunt": [
+    {
+      "name": "Cheesecake Factory",
+      "description": "The Cheesecake Factory is a restaurant chain that offers a wide variety of dishes, including pasta, pizza, seafood, and, of course, cheesecake.",
+      "rating": 4.5,
+      "location": "Koramangala, Bangalore",
+      "comments": [
+        {
+          "name": "John",
+          "comment": "The food and service here are always excellent."
+        },
+        {
+          "name": "Mary",
+          "comment": "Love the variety of menu options."
+        }
+      ]
+    },
+    {
+      "name": "Olive Garden",
+      "description": "Olive Garden is an Italian-American restaurant chain that offers a variety of pasta dishes, as well as soups, salads, and other Italian-inspired fare.",
+      "rating": 4.3,
+      "location": "JP Nagar, Bangalore",
+      "comments": [
+        {
+          "name": "Jane",
+          "comment": "Love the unlimited soup, salad, and breadsticks."
+        },
+        {
+          "name": "Bob",
+          "comment": "Good food and reasonable prices."
+        }
+      ]
+    },
+    {
+      "name": "Outback Steakhouse",
+      "description": "Outback Steakhouse is a casual dining restaurant chain that offers a variety of steak, chicken, and seafood dishes, as well as salads, soups, and desserts.",
+      "rating": 4.2,
+      "location": "Koramangala, Bangalore",
+      "comments": [
+        {
+          "name": "Bill",
+          "comment": "The steak here is always cooked to perfection."
+        },
+        {
+          "name": "Sara",
+          "comment": "Friendly staff and good atmosphere."
+        }
+      ]
+    },
+    {
+      "name": "Red Lobster",
+      "description": "Red Lobster is a seafood restaurant chain that offers a variety of dishes featuring lobster, shrimp, crab, and other seafood options.",
+      "rating": 4.1,
+      "location": "Jayanagar, Bangalore",
+      "comments": [
+        {
+          "name": "Tom",
+          "comment": "Love the endless shrimp promotion."
+        },
+        {
+          "name": "Susan",
+          "comment": "Good seafood and nice atmosphere."
+        }
+      ]
+    },
+    {
+      "name": "Chili's",
+      "description": "Chili's is a casual dining restaurant chain that offers a variety of Tex-Mex and American dishes, as well as burgers, sandwiches, and salads.",
+      "rating": 4.0,
+      "location": "Whitefield, Bangalore",
+      "comments": [
+        {
+          "name": "Joe",
+          "comment": "Good food and drink specials."
+        },
+        {
+          "name": "Karen",
+          "comment": "Love the queso and chips appetizer."
+        }
+      ]
+    },
+    {
+      "name": "Barbeque Nation",
+      "description": "Barbeque Nation is a casual dining restaurant known for their innovative and delicious grills and barbeques. They offer a variety of vegetarian and non-vegetarian options, along with a range of drinks and desserts.",
+      "rating": 4.5,
+      "location": "Indiranagar, Bangalore",
+      "comments": [
+        {
+          "name": "John Doe",
+          "comment": "I loved the food here. The grills and barbeques were amazing!"
+        },
+        {
+          "name": "Jane Doe",
+          "comment": "The service was a bit slow, but the food made up for it. Highly recommend the chicken tikkas!"
+        }
+      ]
+    },
+    {
+      "name": "Truffles",
+      "description": "Truffles is a popular cafe chain in Bangalore known for their burgers and shakes. They have a variety of vegetarian and non-vegetarian options, along with a range of desserts and beverages.",
+      "rating": 4.0,
+      "location": "Koramangala, Bangalore",
+      "comments": [
+        {
+          "name": "Samantha Smith",
+          "comment": "Truffles has the best burgers in town! Love their fries and shakes too."
+        },
+        {
+          "name": "David Brown",
+          "comment": "I had a great experience at Truffles. The food was delicious and the service was top-notch."
+        }
+      ]
+    },
+    {
+      "name": "Cafe Coffee Day",
+      "description": "Cafe Coffee Day is a popular cafe chain in India known for their coffee and snacks. They offer a range of coffee and tea options, along with sandwiches, burgers, and desserts.",
+      "rating": 3.5,
+      "location": "Whitefield, Bangalore",
+      "comments": [
+        {
+          "name": "Amit Sharma",
+          "comment": "CCD is a great place to hang out with friends. Love their coffee and sandwiches."
+        },
+        {
+          "name": "Priya Patel",
+          "comment": "The service at CCD could be better, but the coffee is always good."
+        },
+        {
+          "name": "Rahul Singh",
+          "comment": "CCD has a nice ambiance and good food. Would definitely recommend their brownies."
+        }
+      ]
+    },
+    {
+      "name": "MTR",
+      "description": "MTR is a popular South Indian restaurant in Bangalore known for their dosas and filter coffee. They offer a variety of vegetarian options, along with a range of sweets and snacks.",
+      "rating": 4.2,
+      "location": "JP Nagar, Bangalore",
+      "comments": [
+        {
+          "name": "Sandeep Kumar",
+          "comment": "MTR has the best dosas in Bangalore. Would highly recommend!"
+        },
+        {
+          "name": "Priya Singh",
+          "comment": "The food at MTR is always fresh and delicious. Love their filter coffee too."
+        },
+        {
+          "name": "Rajesh Patel",
+          "comment": "MTR is a must-visit for anyone who loves South Indian food. Their chutneys are amazing!"
+        }
+      ]
+    }
+  ],
+  "shopping": [
+    {
+      "name": "Phoenix Marketcity",
+      "description": "One-stop destination for fashion, food, and entertainment.",
+      "rating": 4.5,
+      "location": "Whitefield, Bengaluru",
+      "comments": [
+        {
+          "name": "John",
+          "comment": "Great collection of stores!"
+        },
+        {
+          "name": "Jane",
+          "comment": "Love the cinema here."
+        }
+      ]
+    },
+    {
+      "name": "Mantri Square",
+      "description": "Largest shopping mall in Bengaluru with over 250 stores.",
+      "rating": 4.2,
+      "location": "Malleshwaram, Bengaluru",
+      "comments": [
+        {
+          "name": "Mike",
+          "comment": "Always crowded, but worth the visit."
+        },
+        {
+          "name": "Mary",
+          "comment": "Lots of options for dining."
+        }
+      ]
+    },
+    {
+      "name": "UB CityHub",
+      "description": "Luxury shopping and dining destination.",
+      "rating": 4.8,
+      "location": "Malleshwaram, Bangalore",
+      "comments": [
+        {
+          "name": "David",
+          "comment": "Great place to splurge on luxury brands."
+        },
+        {
+          "name": "Sarah",
+          "comment": "Beautiful architecture and ambiance."
+        }
+      ]
+    },
+    {
+      "name": "Orion Mall",
+      "description": "A mix of international and domestic brands in a spacious mall.",
+      "rating": 4.4,
+      "location": "JP Nagar, Bangalore",
+      "comments": [
+        {
+          "name": "Alex",
+          "comment": "Love the movie theater here."
+        },
+        {
+          "name": "Lisa",
+          "comment": "Lots of options for kids entertainment."
+        }
+      ]
+    },
+    {
+      "name": "Forum Mall",
+      "description": "A popular shopping mall with over 100 stores and a large food court.",
+      "rating": 4.1,
+      "location": "Koramangala, Bengaluru",
+      "comments": [
+        {
+          "name": "Kevin",
+          "comment": "Great shopping experience, especially during sales."
+        },
+        {
+          "name": "Amanda",
+          "comment": "Always love coming here for the food."
+        }
+      ]
+    },
+    {
+      "name": "Sophia Mall",
+      "description": "One of the first malls in Bengaluru, with over 150 stores.",
+      "rating": 3.8,
+      "location": "Jayanagar, Bangalore",
+      "comments": [
+        {
+          "name": "Tom",
+          "comment": "Love the collection of stores here."
+        },
+        {
+          "name": "Emily",
+          "comment": "Could use some renovation, but still a good mall."
+        }
+      ]
+    },
+    {
+      "name": "Inorbit Mall",
+      "description": "A family-friendly mall with a mix of shopping and entertainment options.",
+      "rating": 4.0,
+      "location": "Indiranagar, Bangalore",
+      "comments": [
+        {
+          "name": "Eric",
+          "comment": "Love the variety of stores here."
+        },
+        {
+          "name": "Olivia",
+          "comment": "Fun place to hang out with friends and family."
+        }
+      ]
+    },
+    {    "name": "Garuda Mall",   
+         "description": "Garuda Mall is a popular shopping center located in the heart of Bengaluru. It features a variety of shops, restaurants, and a movie theater.",    
+         "rating": 4.2,    
+         "location": "Whitefield, Bangalore",    
+         "comments": [      
+          {
+            "name": "Anjali", 
+            "comment": "Love the collection of stores!"
+            },      
+            {"name": "Naveen", 
+            "comment": "The food court has good options."
+          }   
+        ]
+  },
+  {
+    "name": "UB City",
+    "description": "UB City is a high-end luxury shopping destination in Bengaluru. It houses some of the most exclusive brands and features fine dining restaurants.",
+    "rating": 4.8,
+    "location": "JP Nagar, Bangalore",
+    "comments": [
+      {
+        "name": "Asha", 
+        "comment": "Best place to shop for luxury brands!"
+      },
+      {
+        "name": "Vikram", 
+        "comment": "The ambience is great and the food is amazing."
+      }
+    ]
+  }
+  ],
+  "hotels_travel": [
+    {
+      "name": "Taj West End",
+      "description": "The Taj West End is a luxury hotel located in the heart of Bangalore. It offers a range of rooms and suites, as well as restaurants, a spa, and outdoor pool.",
+      "rating": 4.9,
+      "location": "Malleshwaram, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "John",
+          "comment": "The Taj is the best hotel in Bangalore!"
+        },
+        {
+          "name": "Mary",
+          "comment": "The service here is exceptional."
+        }
+      ]
+    },
+    {
+      "name": "The Oberoi",
+      "description": "The Oberoi is a luxury hotel located in the heart of Bangalore. It offers a range of rooms and suites, as well as restaurants, a spa, and outdoor pool.",
+      "rating": 4.8,
+      "location": "Koramangala, Bangalore",
+      "comments": [
+        {
+          "name": "Jane",
+          "comment": "The rooms here are so luxurious."
+        },
+        {
+          "name": "Bob",
+          "comment": "Great service and amenities."
+        }
+      ]
+    },
+    {
+      "name": "ITC Windsor",
+      "description": "ITC Windsor is a luxury hotel located in the heart of Bangalore. It offers a range of rooms and suites, as well as restaurants, a spa, and outdoor pool.",
+      "rating": 4.7,
+      "location": "Jayanagar, Bangalore",
+      "comments": [
+        {
+          "name": "Bill",
+          "comment": "The food here is amazing!"
+        },
+        {
+          "name": "Sara",
+          "comment": "Love the view from my room."
+        }
+      ]
+    },
+    {
+      "name": "The Leela Palace",
+      "description": "The Leela Palace is a luxury hotel located in the heart of Bangalore. It offers a range of rooms and suites, as well as restaurants, a spa, and outdoor pool.",
+      "rating": 4.6,
+      "location": "Whitefield, Bangalore",
+      "comments": [
+        {
+          "name": "Tom",
+          "comment": "The staff here is so friendly and helpful."
+        },
+        {
+          "name": "Susan",
+          "comment": "This hotel is absolutely stunning!"
+        }
+      ]
+    },
+    {
+      "name": "JW Marriott",
+      "description": "JW Marriott is a luxury hotel located in the heart of Bangalore. It offers a range of rooms and suites, as well as restaurants, a spa, and outdoor pool.",
+      "rating": 4.5,
+      "location": "JP Nagar, Bangalore",
+      "comments": [
+        {
+          "name": "Joe",
+          "comment": "The amenities here are top-notch."
+        },
+        {
+          "name": "Karen",
+          "comment": "Love the rooftop pool!"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "name": "Indian Institute of Science",
+      "description": "The Indian Institute of Science is a public research institution located in Bangalore. It offers undergraduate, graduate, and doctoral programs in various fields of science and engineering.",
+      "rating": 4.9,
+      "location": "Malleshwaram, Bangalore",
+      "comments": [
+        {
+          "name": "John",
+          "comment": "The faculty here is so knowledgeable and experienced."
+        },
+        {
+          "name": "Mary",
+          "comment": "The labs and facilities are world-class."
+        }
+      ]
+    },
+    {
+      "name": "Indian Institute of Management",
+      "description": "The Indian Institute of Management is a premier business school located in Bangalore. It offers a range of management programs, including MBA, Executive MBA, and PhD.",
+      "rating": 4.8,
+      "location": "Malleshwaram, Bangalore",
+      "comments": [
+        {
+          "name": "Jane",
+          "comment": "The faculty here is top-notch and the curriculum is very rigorous."
+        },
+        {
+          "name": "Bob",
+          "comment": "I learned a lot from my time here and made some great connections."
+        }
+      ]
+    },
+    {
+      "name": "National Law School of India University",
+      "description": "The National Law School of India University is a premier law school located in Bangalore. It offers undergraduate, graduate, and doctoral programs in law.",
+      "rating": 4.7,
+      "location": "Koramangala, Bangalore",
+      "comments": [
+        {
+          "name": "Bill",
+          "comment": "The faculty here is very supportive and the academic environment is very stimulating."
+        },
+        {
+          "name": "Sara",
+          "comment": "The facilities here are excellent and the library is well-stocked."
+        }
+      ]
+    },
+    {
+      "name": "Christ College of Engineering",
+      "description": "Christ College of Engineering is a private university located in Bangalore. It offers undergraduate and graduate programs in various fields, including humanities, social sciences, science, commerce, and management.",
+      "rating": 4.6,
+      "location": "Jayanagar, Bangalore",
+      "comments": [
+        {
+          "name": "Tom",
+          "comment": "The faculty here is very knowledgeable and helpful."
+        },
+        {
+          "name": "Susan",
+          "comment": "The campus here is very beautiful and the student community is very vibrant."
+        }
+      ]
+    },
+    {
+      "name": "Indian Institute of Technology and Medicine",
+      "description": "The Indian Institute of Technology is a premier engineering school located in Bangalore. It offers undergraduate, graduate, and doctoral programs in various fields of engineering and technology.",
+      "rating": 4.5,
+      "location": "Indiranagar, Bangalore",
+      "comments": [
+        {
+          "name": "Joe",
+          "comment": "The faculty here is very experienced and the curriculum is very challenging."
+        },
+        {
+          "name": "Karen",
+          "comment": "The labs and facilities here are very advanced and modern."
+        }
+      ]
+    },
+  {
+    "name": "R.V. College of Engineering (RVCE)",
+    "description": "RVCE is a premier engineering college located in Bangalore. It has a strong alumni network and is known for its excellent placements.",
+    "rating": 4.1,
+    "location": "Whitefield, Bangalore",
+    "comments": [
+      {"name": "Sneha", "comment": "The labs here are well-equipped and the faculty is very supportive."},
+      {"name": "Vikram", "comment": "The hackathons organized here are very challenging and fun."}
+    ]
+  },
+  {
+    "name": "Christ University",
+    "description": "Christ University is a private deemed university located in Bangalore. It has a diverse student population and offers a wide range of programs.",
+    "rating": 4.6,
+    "location": "JP Nagar, Bangalore",
+    "comments": [
+      {"name": "Aditya", "comment": "The campus life here is amazing!"},
+      {"name": "Shruti", "comment": "The faculty is very experienced and knowledgeable."}
+    ]
+  },
+  {
+    "name": "Mount Carmel College",
+    "description": "Mount Carmel College is a women's college located in Bangalore. It offers a variety of undergraduate and postgraduate programs.",
+    "rating": 4.2,
+    "location": "Malleshwaram, Bangalore",
+    "comments": [
+      {"name": "Priya", "comment": "The cultural events organized here are very vibrant and diverse."},
+      {"name": "Nikhil", "comment": "The faculty is very approachable and supportive."}
+    ]
+  },
+  {
+    "name": "Indian Institute of Arts (IIAs)",
+    "description": "IISc is a premier public research institute located in Bangalore. It is ranked consistently as one of the top institutes in the country.",
+    "rating": 4.7,
+    "location": "Koramangala, Bangalore",
+    "comments": [
+      {"name": "Ravi", "comment": "The research facilities here are top-notch!"},
+      {"name": "Priya", "comment": "The campus is beautiful and the faculty is very supportive."}
+    ]
+  },
+  {
+    "name": "Institute of Management Bangalore (IMB)",
+    "description": "IIMB is a leading business school in India. It is renowned for its academic rigor and excellent faculty.",
+    "rating": 4.5,
+    "location": "Koramangala, Bangalore",
+    "comments": [
+      {"name": "Sridhar", "comment": "The placements here are great!"},
+      {"name": "Anu", "comment": "The curriculum is very practical and prepares us for the industry."}
+    ]
+  },
+  {
+    "name": "National Law School of India University (NLSIU)",
+    "description": "NLSIU is a top law school located in Bangalore. It has produced many successful lawyers and judges over the years.",
+    "rating": 4.3,
+    "location": "Jayanagar, Bangalore",
+    "comments": [
+      {"name": "Kavya", "comment": "The faculty is very knowledgeable and approachable."},
+      {"name": "Raj", "comment": "The moot court competitions here are very competitive and challenging."}
+    ]
+  }
+  ],
+  "hospital": [
+    {
+      "name": "MediVeds Hospitals",
+      "description": "MediVeds Hospitals is one of the largest hospital chains in India, with a flagship hospital located in Bangalore. It offers a wide range of medical and surgical specialties.",
+      "rating": 4.8,
+      "location": "Indiranagar, Bangalore",
+      "comments": [
+        {
+          "name": "John",
+          "comment": "The doctors here are very skilled and experienced."
+        },
+        {
+          "name": "Mary",
+          "comment": "The facilities here are top-notch and the staff is very friendly."
+        }
+      ]
+    },
+    {
+      "name": "Mantrigan Hospital",
+      "description": "Mantrigan Hospital is a chain of hospitals with a location in Bangalore. It offers comprehensive medical services, including diagnostics, surgery, and critical care.",
+      "rating": 4.7,
+      "location": "JP Nagar, Bangalore",
+      "comments": [
+        {
+          "name": "Jane",
+          "comment": "The doctors here are very professional and caring."
+        },
+        {
+          "name": "Bob",
+          "comment": "The facilities here are excellent and the staff is very attentive."
+        }
+      ]
+    },
+    {
+      "name": "Vayasaraya Hospital",
+      "description": "Vayasaraya Hospital is a chain of hospitals with a location in Bangalore. It offers a range of medical specialties, including cardiology, neurology, and orthopedics.",
+      "rating": 4.6,
+      "location": "Malleshwaram, Bangalore",
+      "comments": [
+        {
+          "name": "Bill",
+          "comment": "The doctors here are very knowledgeable and compassionate."
+        },
+        {
+          "name": "Sara",
+          "comment": "The facilities here are very modern and clean."
+        }
+      ]
+    },
+    {
+      "name": "Columbia Asia Hospital",
+      "description": "Columbia Asia Hospital is a chain of hospitals with a location in Bangalore. It offers a range of medical specialties, including cardiology, neurology, and pediatrics.",
+      "rating": 4.5,
+      "location": "Whitefield, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Tom",
+          "comment": "The doctors here are very friendly and approachable."
+        },
+        {
+          "name": "Susan",
+          "comment": "The facilities here are very well-maintained and comfortable."
+        }
+      ]
+    },
+    {
+      "name": "Supriya Health",
+      "description": "Supriya Health is a chain of hospitals with a location in Bangalore. It offers a range of medical specialties, including cardiology, oncology, and urology.",
+      "rating": 4.4,
+      "location": "Koramangala, Bangalore",
+      "comments": [
+        {
+          "name": "Joe",
+          "comment": "The doctors here are very experienced and skilled."
+        },
+        {
+          "name": "Karen",
+          "comment": "The facilities here are very spacious and well-equipped."
+        }
+      ]
+    },
+    {
+      "name": "Apollo Hospitals",
+      "description": "One of the largest hospital chains in Bangalore, offering a wide range of medical services and facilities.",
+      "rating": 4.5,
+      "location": "Jayanagar, Bangalore",
+      "comments": [
+        {
+          "name": "John",
+          "comment": "Had a great experience with the doctors and staff here."
+        },
+        {
+          "name": "Sarah",
+          "comment": "The facilities and services here are top-notch."
+        }
+      ]
+    },
+    {
+      "name": "Fortis Hospital",
+      "description": "A leading multi-speciality hospital in Bangalore, known for its expertise in cardiology and other areas.",
+      "rating": 4.2,
+      "location": "JP Nagar, Opposite IIM-B, Bengaluru, Karnataka 560076",
+      "comments": [
+        {
+          "name": "Mike",
+          "comment": "The doctors and staff here are very professional and caring."
+        },
+        {
+          "name": "Jennifer",
+          "comment": "I received excellent treatment and care during my stay here."
+        }
+      ]
+    },
+    {
+      "name": "Manipal Hospitals",
+      "description": "A well-known hospital chain in Bangalore, offering a wide range of medical services and facilities.",
+      "rating": 4.3,
+      "location": "Malleshwaram, HAL Old Airport Rd, Kodihalli, Bengaluru, Karnataka 560017",
+
+      "comments": [
+        {
+          "name": "Lisa",
+          "comment": "The doctors and staff here are very knowledgeable and helpful."
+        },
+        {
+          "name": "David",
+          "comment": "The facilities and services here are very good."
+        }
+      ]
+    },
+    {
+      "name": "Narayana Health",
+      "description": "A reputed hospital chain in Bangalore, known for its expertise in various medical fields.",
+      "rating": 4.1,
+      "location": "Koramangala, Bommasandra Industrial Area, Anekal Taluk, Bengaluru, Karnataka 560099",
+      "comments": [
+        {
+          "name": "Alex",
+          "comment": "I had a great experience with the doctors and staff here."
+        },
+        {
+          "name": "Emily",
+          "comment": "The services and facilities here are very good."
+        }
+      ]
+    }
+  ]
+}
