@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import MenuRoundedIcon from '@mui/icons-material/MenuRounded';
-import { Box, CardActionArea, Divider, Drawer, Icon, IconButton, List, Typography } from '@mui/material';
+import { Box, CardActionArea, Divider, Drawer, IconButton, List } from '@mui/material';
 import CommuteIcon from '@mui/icons-material/Commute';
 import LuggageIcon from '@mui/icons-material/Luggage';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';

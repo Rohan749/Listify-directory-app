@@ -1,6 +1,5 @@
-import { AppBar, Box, Button, Container, Icon, IconButton, Typography } from '@mui/material'
+import { AppBar, Box, Button } from '@mui/material'
 import React from 'react'
-import icon from "./iconBoostup.png"
 
 import LeftDrawer from '../LeftDrawer/LeftDrawer';
 import { Link } from 'react-router-dom';
