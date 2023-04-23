@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Listify-directory-app/static/css/main.fbf754b0.css",
+    "main.js": "/Listify-directory-app/static/js/main.08940a50.js",
+    "static/media/iconBoostup.png": "/Listify-directory-app/static/media/iconBoostup.eef4478282605493d4b2.png",
+    "static/media/revicons.eot": "/Listify-directory-app/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Listify-directory-app/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Listify-directory-app/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Listify-directory-app/index.html",
+    "main.fbf754b0.css.map": "/Listify-directory-app/static/css/main.fbf754b0.css.map",
+    "main.08940a50.js.map": "/Listify-directory-app/static/js/main.08940a50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbf754b0.css",
+    "static/js/main.08940a50.js"
+  ]
+}
